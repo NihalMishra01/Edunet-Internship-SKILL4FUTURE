@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Machine Learning Basics - Week 1 Task</h1>
+<h1 align="center">🤖 Skill4Future Week 1 Task</h1>
 
 <p align="center">
   🚀 Internship Task • <strong>Edunet Foundation</strong>  
@@ -23,8 +23,8 @@
 
 | File Name               | Description                                   |
 |------------------------|-----------------------------------------------|
-| `Week1_ML_Task.ipynb`  | ✅ Colab notebook with ML code implementation |
-| `Week1_ML_Task.docx`   | 📄 Word file containing visual-only concepts  |
+| `Week1.ipynb`  | ✅ Colab notebook with ML code implementation |
+| `Week1.docx`   | 📄 Word file containing concepts  |
 
 ---
 
