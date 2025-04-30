@@ -12,7 +12,7 @@
 
 ---
 
-> 📌 This repository contains my **Week 1 submissions** as an intern at **Team EdY - Edunet Foundation**.  
+> 📌 This repository contains my **Week 1 submissions** as an intern at ** Edunet Foundation**.  
 > The task was focused on understanding the **basics of Machine Learning** using both a Colab notebook and visual representations.
 
 ---
@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by [Nihal Mishra]
 </p>
